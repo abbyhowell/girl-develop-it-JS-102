@@ -1,5 +1,27 @@
-Here's the random-student-chooser widget that we made in JavaScript 102.
+Welcome to the Glitch BETA
+=========================
 
-Start a server from the command line (in the directory where these files are) with `python -m SimpleHTTPServer` and go to localhost:8000 in your browser to view the code.
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-If you're running python 3, start the server from the command line with `python -m http.server`. 
+Glitch is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
+
+[About Glitch](https://glitch.com/about)
+
+
+Your Project
+------------
+
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env`
+
+On the front-end,
+- edit `client.js`, `style.css` and `index.html`
+- drag in `assets`, like images or music, to add them to your project
+
+
+Made by Fog Creek
+-----------------
+
+\ ゜o゜)ノ
