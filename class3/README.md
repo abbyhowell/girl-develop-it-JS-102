@@ -14,15 +14,15 @@ Search the web for photo apis.
 6. Only reveal cards whose date has already passed.
 
 
+More options for your project:
 
-More options:
+* Make a matching game (once two boxes are clicked, check to see if they have the same image, and if not, flip them back over.)
 
-Make a matching game (once two boxes are clicked, check to see if they have the same image)
-Make a clueless-style outfit generator (three boxes on top of each other for
+* Make a clueless-style outfit generator (three boxes on top of each other for
   the different parts of the outfit: each box cycles through an array of pictures,
   clicking switches that picture)
 
-Instead of spending a lot time making a list of photos, maybe there is a photo
+* Instead of spending a lot time making a list of photos, maybe there is a photo
    api you can use. I searched the web for photo apis and used this sample one at https://developers.gettyimages.com/en/trytheapi.html. I saved the response
    in a file called apiResponse.json. I figure I can load its contents with an
    XMLHttpRequest:
