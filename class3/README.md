@@ -2,9 +2,6 @@ The goal for today's class is to make an advent calendar with HTML, CSS,
 and JavaScript. Each day of the month, when clicked, reveals a photo (or a link
 or some other delight).
 
-
-Search the web for photo apis.
-
 1. Write a function that puts 31 boxes inside a container box.
 2. Instead of 31 days, how about the number of days in the current month?
   http://stackoverflow.com/a/1184359/2801117
