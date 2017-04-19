@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+}
+#student {
+  font-size: 50px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 20px;
+  background: white;
+  border: 1px solid blue;
+  margin: 5px;
+}
